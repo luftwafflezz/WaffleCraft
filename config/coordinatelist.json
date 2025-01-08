@@ -1,0 +1,7 @@
+{
+  "multiplier": 10,
+  "render_distance": 0,
+  "waypoints_toggled": true,
+  "can_place_deathpoints": true,
+  "waypoint_text_background": true
+}
